@@ -1,0 +1,14 @@
+{
+.botton
+{
+-fx-background-color : #C6C9CC;
+}
+.botton : hover
+{
+-fx-background-color : #D7D9DA;
+}
+.botton : pressed
+{
+-fx-background-color : #878E95;
+}
+}
